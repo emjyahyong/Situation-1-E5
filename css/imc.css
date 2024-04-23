@@ -1,0 +1,50 @@
+/*
+	Mini-projet IMC
+*/
+
+body {
+	background-image: url('../img/img.jpg');
+	background-repeat: no-repeat;
+    background-size: 100%;
+	text-align: center;
+}
+
+form {
+	margin: auto;			
+	border: 2px solid red;
+	background-color:#FAFAFA;
+	padding:10px;
+	width:350px;
+	font:bold 24px Arial;
+}
+
+table {
+	font:bold 20px Arial;
+}
+
+input {
+	font: 24px Arial;
+}
+ 
+h1 {
+	background-color:#31B404;
+	font:bold 
+}
+
+.boutonJS {
+	border:none;
+	padding:6px;
+	border-radius:8px;
+	background:#31B404;
+	font:bold 20px Arial;
+	color:#fff;
+}
+
+#idIMC {
+	font: 24px Arial;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
